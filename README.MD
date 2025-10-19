@@ -42,8 +42,10 @@ A computer vision tool for extracting quantitative territorial data from animate
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/hamzaalshamy/ATDE.git
-cd ATDE
+git clone https://github.com/hamzaalshamy/animated-territorial-data-extractor
+.git
+cd animated-territorial-data-extractor
+
 
 # Install dependencies
 pip install opencv-python "numpy<2.0" matplotlib
