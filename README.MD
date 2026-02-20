@@ -22,6 +22,11 @@ A computer vision tool for extracting quantitative territorial data from animate
 
 **ATDE (Animated Territorial Data Extractor)** converts animated historical map videos into structured time-series data. Many popular "history-of-the-world" videos depict territorial changes using color-coded regions, but the underlying quantitative data remains inaccessible. ATDE uses HSV-based color segmentation, RGB channel filtering, and Direct-Neighbor Filtering to extract pixel counts representing territorial control over time.
 
+## Paper
+
+Read the full technical paper: [paper.pdf](ATDE_paper.pdf) 
+ <!-- or on [arXiv](https://arxiv.org/abs/XXXX.XXXXX) -->
+
 **Key Features:**
 - Extracts year-by-year territorial pixel counts from animated map videos
 - Handles multiple color shades representing the same territory
@@ -155,11 +160,6 @@ If you use ATDE in your work, please cite:
   year={2025}
 }
 ``` -->
-
-## Paper
-
-Read the full technical paper: [paper.pdf](ATDE_paper.pdf) 
- <!-- or on [arXiv](https://arxiv.org/abs/XXXX.XXXXX) -->
 
 
 ## License
