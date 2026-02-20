@@ -24,8 +24,7 @@ A computer vision tool for extracting quantitative territorial data from animate
 
 ## Paper
 
-Read the full technical paper: [paper.pdf](ATDE_paper.pdf) 
- <!-- or on [arXiv](https://arxiv.org/abs/XXXX.XXXXX) -->
+Read the full technical paper: [paper.pdf](ATDE_paper.pdf) or on [arXiv](https://arxiv.org/abs/2511.17920)
 
 **Key Features:**
 - Extracts year-by-year territorial pixel counts from animated map videos
