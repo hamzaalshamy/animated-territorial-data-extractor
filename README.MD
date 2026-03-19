@@ -1,4 +1,7 @@
-# ATDE: Animated Territorial Data Extractor [![arXiv](https://img.shields.io/badge/arXiv-2511.17920-b31b1b.svg)](https://arxiv.org/abs/2511.17920)
+# ATDE: Animated Territorial Data Extractor
+[![arXiv](https://img.shields.io/badge/arXiv-2511.17920-b31b1b.svg)](https://arxiv.org/abs/2511.17920)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 A computer vision tool for extracting quantitative territorial data from animated historical map videos.
 
