@@ -1,22 +1,8 @@
 # ATDE: Animated Territorial Data Extractor
-<!-- ## Contact
+[![arXiv](https://img.shields.io/badge/arXiv-2511.17920-b31b1b.svg)](https://arxiv.org/abs/2511.17920)
+# ATDE: Animated Territorial Data Extractor [![arXiv](https://img.shields.io/badge/arXiv-2511.17920-b31b1b.svg)](https://arxiv.org/abs/2511.17920)
 
 A computer vision tool for extracting quantitative territorial data from animated historical map videos.
-
-<p align="center">
-  <img src="assets/Qin_Condensed.gif" width="45%" alt="Original Video" style="margin-right: 2%;"/>
-  <img src="assets/Qin_validation.gif" width="45%" alt="Validation Output" style="margin-left: 2%;"/>
-</p>
-<p align="center">
-  <em>Left: Original animated map video | Right: ATDE validation output showing detected territory</em>
-</p>
-
-<p align="center">
-  <img src="assets/qin_graph.png" width="80%" alt="Qin Dynasty Territorial Extent"/>
-</p>
-<p align="center">
-  <em>Extracted territorial trajectory for the Qin Dynasty (361-206 BCE) showing pixel counts over time</em>
-</p>
 
 
 ## Overview
