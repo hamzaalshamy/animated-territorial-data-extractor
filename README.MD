@@ -2,6 +2,21 @@
 
 A computer vision tool for extracting quantitative territorial data from animated historical map videos.
 
+<p align="center">
+  <img src="assets/Qin_Condensed.gif" width="45%" alt="Original Video" style="margin-right: 2%;"/>
+  <img src="assets/Qin_validation.gif" width="45%" alt="Validation Output" style="margin-left: 2%;"/>
+</p>
+<p align="center">
+  <em>Left: Original animated map video | Right: ATDE validation output showing detected territory</em>
+</p>
+
+<p align="center">
+  <img src="assets/qin_graph.png" width="80%" alt="Qin Dynasty Territorial Extent"/>
+</p>
+<p align="center">
+  <em>Extracted territorial trajectory for the Qin Dynasty (361-206 BCE) showing pixel counts over time</em>
+</p>
+
 ## Overview
 
 **ATDE (Animated Territorial Data Extractor)** converts animated historical map videos into structured time-series data. Many popular "history-of-the-world" videos depict territorial changes using color-coded regions, but the underlying quantitative data remains inaccessible. ATDE uses HSV-based color segmentation, RGB channel filtering, and Direct-Neighbor Filtering to extract pixel counts representing territorial control over time.
